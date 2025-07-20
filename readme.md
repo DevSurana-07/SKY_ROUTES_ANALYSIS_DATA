@@ -71,7 +71,7 @@ Route Code
 
 🖼️ 📷 Dashboard Preview
 
-![Dashboard Screenshot](images/dashboard.png)
+(images/dashboard.png)
 
 📑 Key Recommendations
 ✔️ Discontinue or optimize consistently unprofitable routes
