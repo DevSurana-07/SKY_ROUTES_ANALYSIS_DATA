@@ -70,13 +70,8 @@ Month
 Route Code
 
 🖼️ 📷 Dashboard Preview
-⬇️ Insert Power BI Screenshot Below ⬇️
 
-mathematica
-Copy
-Edit
-[ Power BI Dashboard Screenshot Goes Here ]
-📝 You can export your Power BI dashboard as a PNG and paste it here or into a markdown-rendered document or PDF.
+![Dashboard Screenshot](images/dashboard.png)
 
 📑 Key Recommendations
 ✔️ Discontinue or optimize consistently unprofitable routes
