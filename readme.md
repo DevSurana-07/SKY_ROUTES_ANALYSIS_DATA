@@ -1,14 +1,16 @@
-✈️ SkyRoutes Analysis – README
+## ✈️ SkyRoutes Analysis – README
 
-📸 Dashboard Preview:
+## 📸 Dashboard Preview:
 ![Dashboard Screebshot](images/dashboard.png)
 
-🔍 Overview
+## 🔍 Overview
+
 Analyzed airline route data to evaluate operational and financial performance.
 
 Focused on route profitability, frequency, occupancy, and seasonal trends.
 
-🛠 Tools Used
+## 🛠 Tools Used
+
 SQL – Data querying and analysis
 
 Power BI – Dashboard design
@@ -17,7 +19,8 @@ Excel – Data validation and export
 
 PBIX File – Final dashboard output
 
-📊 Key Analyses
+## 📊 Key Analyses
+
 Top 10 Frequent Routes
 
 Avg. Revenue, Cost & Profit per Route
@@ -32,7 +35,8 @@ Domestic vs. International Profit Comparison
 
 Revenue per Minute Ranking
 
-💡 Key Insights
+## 💡 Key Insights
+
 High frequency ≠ High profitability
 
 Several routes operate at a loss
@@ -45,11 +49,13 @@ Clear monthly trends suggest seasonality
 
 Efficient routes generate more revenue per minute
 
-⏱ Time Taken
+## ⏱ Time Taken
+
 Total project time: ~5.5 hours
 
 
-✅ Conclusion
+## ✅ Conclusion
+
 The analysis reveals valuable performance gaps and efficiency opportunities.
 
 Routes with consistent losses should be reviewed or optimized.
